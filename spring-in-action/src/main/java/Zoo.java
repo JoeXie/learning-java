@@ -1,6 +1,8 @@
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
+import javax.annotation.Resource;
+
 /**
  * Created by Xie on 2017.5.30.
  */
